@@ -1,0 +1,47 @@
+-- Programacion - Workshop
+--------------------------
+    1. App base:
+        - revisar que los developer tengan todo instalado (Android studio, SDK, git)
+        - Descargar de github la base: git clone https://github.com/GDGNeiva/kotlin-workshop.git
+        - Explicacion de estructura de carpetas
+
+    2. Crear el home:
+        - Crear la lista de los productos (quemados)
+        - Crear el btn nuevo
+        - Crear el menu
+
+    3. Agregar productos:
+        - Crear archivo view
+        - Configurarlo con el android manifext y la clase
+        - Configurar el boton atras en el androidmanifext
+        - Crear clase de la DB
+        - Crear clase CRUD del product
+        - Crear el Helper Img
+        - Cargar la IMG desde la gallery
+        - Guardar
+        - Toas del mensaje de exito o error
+
+    4. Modificar Producto:
+        - Enviar el id desde la clase MainActivity
+        - Obtener el id en la clase FormProduct
+        - Asignar los valor a los elementos de la vista
+        - Actualizar
+        - Toas del mensaje de exito o error
+
+    5. Eliminar producto:
+        - Realizar el Alerta de confirmacion
+        - Adicionar las acciones de la Alerta para eliminar o cancelar
+        - Eliminar
+
+    6. Ver resumen del producto
+        - Crear archivo view
+        - Configurarlo con el androidmanifext y la clase
+        - Configurar el boton atras en el androidmanifext
+        - Asignar los valor a los elementos de la vista
+
+    7. Vista About
+        - Crear archivo view
+        - Configurarlo con el androidmanifext y la clase
+        - Configurar el boton atras en el androidmanifext
+        - Crear el helper SocialNetworks
+
