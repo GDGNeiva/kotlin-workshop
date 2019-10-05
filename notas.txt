@@ -1,19 +1,19 @@
 -- Programacion - Workshop
 --------------------------
-    1. App base:
+    1. App base: (sebas)
         - revisar que los developer tengan todo instalado (Android studio, SDK, git)
         - Descargar de github la base: git clone https://github.com/GDGNeiva/kotlin-workshop.git
         - Explicacion de estructura de carpetas
 
-    2. Crear el home:
+    2. Crear el home: (sebas)
         - Crear la lista de los productos (quemados)
         - Crear el btn nuevo
-        - Crear el menu
+        - Crear el menu de la vista about
 
-    3. Agregar productos:
+    3. Agregar productos: (oscar)
         - Crear archivo view
-        - Configurarlo con el android manifext y la clase
-        - Configurar el boton atras en el androidmanifext
+        - Configurarlo con el androidmanifest y la clase
+        - Configurar el boton atras en el androidmanifest
         - Crear clase de la DB
         - Crear clase CRUD del product
         - Crear el Helper Img
@@ -21,27 +21,26 @@
         - Guardar
         - Toas del mensaje de exito o error
 
-    4. Modificar Producto:
+    5. Eliminar producto: (Sebas)
+        - Realizar el Alerta de confirmacion
+        - Adicionar las acciones de la Alerta para eliminar o cancelar
+        - Eliminar
+
+    4. Modificar Producto: (Oscar)
         - Enviar el id desde la clase MainActivity
         - Obtener el id en la clase FormProduct
         - Asignar los valor a los elementos de la vista
         - Actualizar
         - Toas del mensaje de exito o error
 
-    5. Eliminar producto:
-        - Realizar el Alerta de confirmacion
-        - Adicionar las acciones de la Alerta para eliminar o cancelar
-        - Eliminar
-
-    6. Ver resumen del producto
+    6. Ver resumen del producto (sebas)
         - Crear archivo view
         - Configurarlo con el androidmanifext y la clase
         - Configurar el boton atras en el androidmanifext
         - Asignar los valor a los elementos de la vista
 
-    7. Vista About
+    7. Vista About (Oscar)
         - Crear archivo view
         - Configurarlo con el androidmanifext y la clase
         - Configurar el boton atras en el androidmanifext
         - Crear el helper SocialNetworks
-
